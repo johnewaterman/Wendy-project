@@ -1,0 +1,200 @@
+body {
+	font-family: 'Poiret One', 'Radley', serif, georgia;
+	font-size: 24px;
+}
+
+h1 {
+	font-family: 'Poiret One', 'Radley', serif, georgia;
+	font-size: 42px;	
+	text-align: center;
+	margin-top: 15px;
+}
+
+h2 {
+	font-family: 'Poiret One', 'Radley', serif, georgia;
+	font-size: 24px;
+	text-align: center;
+}
+
+p {
+	font-size: 18px;
+	text-align: center;
+}
+
+/* Top Navigation */
+
+/*.row.background {
+	background-color: #776D8F;
+	max-width: 100%
+}*/
+/*.nav-background {
+	background: url('../images/flowers-background.jpeg');
+}*/
+
+.nav-width {
+	width:100%;
+	background-color: #776D8F;
+}
+
+.top-nav img {
+	padding-top:5px;
+}
+
+.nav-header {
+	font-family: 'Poiret One', 'Radley', serif, georgia;
+	font-size: 24px;
+	color: #fff;
+	display: inline; 
+}
+
+.top-nav li {
+	display: inline-block;
+	font-size: 19px;
+	padding-left: 15px;
+	margin-top: 20px;
+}
+
+.top-nav a {
+	color: #fff;
+}
+
+.top-nav a:hover {
+	color: #E3F6F3;
+	text-decoration: underline;
+}
+
+.top-nav a:active {
+	color: #E3F6F3;
+	text-decoration: underline;
+}
+
+/* Services */
+.flowers-background {
+	background: url('../images/flowers-background.jpeg');
+}
+
+.services-background {
+	background: rgba(242,238,239,.85);
+	width: 100%;
+}
+.services-header {
+	text-align: center;
+	font-family: 'Poiret One', 'Radley', serif, georgia;
+}
+
+.services p{
+	text-align: center;
+	font-size: 24px;
+}
+
+.services ul li {
+	text-align: center;
+	font-size: 24px;
+	line-height: 30px;
+	list-style: none;
+}
+
+
+/* Contact */
+.contact-background {
+	background: #E3F6F3;
+	width:100%;
+}
+
+.contact button {
+	text-align: center;
+}
+
+/* Map */
+
+.map {
+	background: #F2EEEF;
+	width:100%;
+}
+
+#map-canvas {
+	height: 300px;
+    margin: 0px;
+    padding: 0px
+}
+
+
+/* About Wendy */
+
+.about-wendy-background {
+	background: url('../images/flowers-background.jpeg');
+}
+
+.about-wendy-background2 {
+	background: rgba(242,238,239,.85);
+	width: 100%;
+}
+
+.about-header {
+	text-align: center;
+	font-family: 'Poiret One', 'Radley', serif, georgia;
+}
+
+.about p{
+	font-size: 24px;
+	margin-right: 10px;
+	text-align: none;
+}
+
+.about ul li {
+	font-size: 24px;
+	line-height: 30px;
+	list-style: none;
+
+}
+
+.about img {
+	float:left;
+	display: inline;
+	border-radius: 10px;
+	padding: 5px;
+	padding-right: 30px;
+}
+
+/* Footer */
+
+.footer-width {
+	width:100%;
+	background-color: #776D8F;
+	padding-top: 10px;
+}
+
+.nav-footer {
+	font-family: 'Poiret One', 'Radley', serif, georgia;
+	font-size: 18px;
+	color: #fff;
+	display: inline; 
+}
+
+.sude-shop {
+	font-family: 'Poiret One', 'Radley', serif, georgia;
+	font-size: 10px;
+	color: #fff;
+	text-align: left;
+}
+
+.footer li {
+	display: inline-block;
+	font-size: 12px;
+	padding-left: 15px;
+	margin-top: 20px;
+}
+
+.footer a {
+	color: #fff;
+}
+
+.footer a:hover {
+	color: #E3F6F3;
+	text-decoration: underline;
+}
+
+.footer a:active {
+	color: #E3F6F3;
+	text-decoration: underline;
+}
